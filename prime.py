@@ -1,3 +1,4 @@
+//to find prime of numbers
 start=5
 end=19
 for val in range(start,end+1):
