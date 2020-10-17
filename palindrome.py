@@ -1,3 +1,4 @@
+//this is a program for palindrome
 num = int(input('Enter the number:'))
 sum=0
 temp=num
